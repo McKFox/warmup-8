@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+.header {
+background-color: bisque;
+padding: 30px;
+}
+
+.main-content {
+    padding: 30px;
+}
+
+.footer {
+    background-color: bisque;
+    padding: 30px;
+}
